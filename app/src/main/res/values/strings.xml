@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Demo Location</string>
+    <string name="result">Result</string>
+    <string name="no_location">No location data. Permission not granted.</string>
+    <string name="show_map_intent">Show Map Intent</string>
+    <string name="error_location">No location info.</string>
+    <string name="error_intent">No app to handle this action</string>
+    <string name="show_map_view">Show Map View</string>
+</resources>
